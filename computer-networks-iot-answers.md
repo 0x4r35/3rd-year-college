@@ -331,9 +331,11 @@ In Stop-and-Wait ARQ the sender transmits **only one frame** and then waits idle
 
 ```math
 \eta = \frac{\text{Frame size}}{\mathrm{BDP}} = \frac{1000}{40{,}000} = 0.025 = 2.5\%
-```
 
 $$\boxed{\text{Link utilisation} = 2.5\%}$$
+```
+
+
 
 ### Interpretation
 
