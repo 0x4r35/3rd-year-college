@@ -1034,7 +1034,7 @@ Starts at `190.100.128.0`.
 \text{Group 1} & 64 \times 256 &=& 16{,}384\\
 \text{Group 2} & 128 \times 128 &=& 16{,}384\\
 \text{Group 3} & 128 \times 64 &=& 8{,}192\\
-\hline
+
 \textbf{Total} & &=& \mathbf{40{,}960}\ \text{addresses}
 \end{array}
 ```
